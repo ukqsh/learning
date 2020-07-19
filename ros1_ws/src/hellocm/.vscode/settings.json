@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/anran/CM_projects/3-004-1_CMRosIF_hellocm/ros/ros1_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/ros1/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}
